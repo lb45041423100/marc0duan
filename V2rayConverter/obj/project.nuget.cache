@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpFQ7R79tAgDDYI5OjFZWt7xDFN/Neo+IFBb5jiM7eAa1iaTjDHP+hu1aFvL9veNOJVXQKShz5s3g3iBZ5vrrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Duan Minghao\\source\\repos\\V2rayConverter\\V2rayConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duan Minghao\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

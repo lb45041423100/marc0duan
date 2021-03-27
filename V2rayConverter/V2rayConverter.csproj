@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>c8bc8a2d-cdc9-478f-8f9b-4718acc83f60</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SubscribeManager\SubscribeManager.csproj" />
+  </ItemGroup>
+
+
+</Project>
